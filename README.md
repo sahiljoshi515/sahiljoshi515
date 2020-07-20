@@ -1,13 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am <a href="https://www.sahiljoshi.com/"> Sahil Joshi </a>
 
-<!--
-**sahiljoshi515/sahiljoshi515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am double majoring in Computer Science and Computational Mathematics. My key interests include working with IOS Applications, API constructions, Arduino projects and Frontend frameworks. I am deeply interested in Artifical intelligence and Wearable Technology. "Computing for common good" is what I believe in. 
 
-Here are some ideas to get you started:
+Outside of work, my other interests include travelling to new cities and countries, watching thriller shows, playing Tabla (an Indian classical instrument) and playng Basketball.
 
-- 🔭 I’m currently working on Project ReachOUT, an application which will be used by students to schedule appointments.
-- 🌱 I’m currently learning about full-stack development.
-- 💬 Ask me about REST APIs, Arduino Projects, IOS App Development and frontend frameworks.
-- 📫 How to reach me: www.sahiljoshi.com
-- 😄 Pronouns: He/Him/His
--->
+I am always open to work on interesting projects and meeting new people to collaborate with. Do checkout my repositories and feel free to message if you feel that I would be a good fit for your preojects!
