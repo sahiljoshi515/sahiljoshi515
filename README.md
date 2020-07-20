@@ -4,4 +4,4 @@ I am double majoring in Computer Science and Computational Mathematics. My key i
 
 Outside of work, my other interests include travelling to new cities and countries, watching thriller shows, playing Tabla (an Indian classical instrument) and playng Basketball.
 
-I am always open to work on interesting projects and meeting new people to collaborate with. Do checkout my repositories and feel free to message if you feel that I would be a good fit for your preojects!
+I am always open to work on interesting projects and meeting new people to collaborate with. Do checkout my repositories and feel free to message if you feel that I would be a good fit for your preojects.
