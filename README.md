@@ -1,4 +1,5 @@
 ### Hi there 👋 I am <a href="https://www.sahiljoshi.com/"> Sahil Joshi </a>
+linkedin.svg
 
 I am double majoring in Computer Science and Computational Mathematics. My key interests include working with IOS Applications, API constructions, Arduino projects and Frontend frameworks. I am deeply interested in Artifical intelligence and Wearable Technology. "Computing for common good" is what I believe in. 
 
